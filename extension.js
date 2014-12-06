@@ -112,11 +112,11 @@
         songstats: false,
         commandLiteral: "!",
         blacklists: {
-            BL: "https://rawgit.com/Darkwing1012/DarkwingBot/master/blacklists/BL.json",
+            BL: "https://raw.githubusercontent.com/Diskovr/UpgradeBot/master/blacklists/BL.json",
         }
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://raw.githubusercontent.com/Darkwing1012/DarkwingBot/master/DarkwingBot.js', extend);
+    $.getScript('https://raw.githubusercontent.com/Diskovr/UpgradeBot/master/UpgradeBot.js', extend);
 
 }).call(this);
