@@ -104,6 +104,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://raw.githubusercontent.com/Diskovr/UpgradeBot/master/UpgradeBot.js', extend);
+    $.getScript('https://rawgit.com/Diskovr/UpgradeBot/master/UpgradeBot.js', extend);
 
 }).call(this);
