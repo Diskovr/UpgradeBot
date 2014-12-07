@@ -99,7 +99,7 @@
         songstats: false,
         commandLiteral: "!",
         blacklists: {
-            BL: "https://raw.githubusercontent.com/Diskovr/UpgradeBot/master/blacklists/BL.json",
+            BL: "https://rawgit.com/Diskovr/UpgradeBot/master/blacklists/BL.json",
         }
     }));
 
